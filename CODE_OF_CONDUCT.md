@@ -4,6 +4,8 @@ As contributors and maintainers of the eraseALZ project, we pledge to foster an 
 
 We are committed to making participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
+Please be nice, its that simple.
+
 ## Our Standards
 
 Examples of behavior that contribute to a positive environment include:
