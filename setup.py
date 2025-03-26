@@ -37,13 +37,13 @@ setup(
     install_requires=read_requirements(),
     entry_points={
         "console_scripts": [
-            "herpai=herpai.orchestrator.run:main",
-            "herpai-ingest=herpai.ingestion.run_ingestor:main"
+            "erasealz=erasealz.orchestrator.run:main",
+            "erasealz-ingest=erasealz.ingestion.run_ingestor:main"
         ],
     },
     include_package_data=True,
     package_data={
-        'herpai': [
+        'erasealz': [
             'configs/*.yaml'
         ],
     },
