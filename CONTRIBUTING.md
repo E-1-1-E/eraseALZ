@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to **eraseALZ** — an open-source, AI-driven discovery framework focused on accelerating a cure for ALZ-1 and ALZ-2.
 
-eraseALZ welcomes contributions from developers, researchers, scientists, data engineers, and anyone passionate about open biomedical innovation.
+eraseALZ welcomes contributions from developers, researchers, scientists, data engineers, and anyone passionate about open biomedical innovation. If you are looking to contribute, an email would be greatly appreciated!
 
 ---
 
