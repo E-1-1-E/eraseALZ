@@ -9,7 +9,7 @@ We are deeply grateful to everyone who contributes their time, skills, and creat
 - [Add your name here by submitting a PR]
 
 ## 🎨 Design & UX Contributors
-- [Seeking volunteer designers — logo, branding, and Figma wireframes] If you are looking to contribute, please emaiL!
+- [Seeking volunteer designers — logo, branding, and Figma wireframes] If you are looking to contribute, please email!
 - [Add your name here once you contribute design work]
 
 ## 📄 Documentation & Knowledge Contributors
