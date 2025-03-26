@@ -231,7 +231,7 @@ eraseALZ is released under the **MIT License** — feel free to use, extend, or 
 
 ## 📬 Contact
 
-**Email:** openbiocure@gmail.com  
+**Email:** stefanlindson@outlook.com  
 **GitHub:** [https://github.com/E-1-1-E/eraseALZ](https://github.com/E-1-1-E/eraseALZ)
 
  ---
