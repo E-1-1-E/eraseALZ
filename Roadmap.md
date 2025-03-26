@@ -77,7 +77,7 @@ Each agent’s output should be:
 
 ---
 
-## 8. Team Roles Required
+## 8. Team Roles Required (Email if interested)
 
 | Role                      | Background Needed                             |
 |---------------------------|-----------------------------------------------|
