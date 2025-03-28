@@ -233,6 +233,7 @@ eraseALZ is released under the **MIT License** — feel free to use, extend, or 
 
 **Email:** stefanlindson@outlook.com  
 **GitHub:** [https://github.com/E-1-1-E/eraseALZ](https://github.com/E-1-1-E/eraseALZ)
+
 If anyone has any questions at all, please don't hesitate to email.
 
 I believe this project, and others like it, will save lives.
