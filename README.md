@@ -1,16 +1,16 @@
 # eraseALZ  
 *Accelerating the discovery of a functional cure for Alzheimers using AI.*
 
-➡️ **[View Final Sample Report (Markdown)](./simulation/v1/final_report.md)**  
+**[View Final Sample Report (Markdown)](./simulation/v1/final_report.md)**  
 See what eraseALZ is capable of generating — a comprehensive scientific report built by chaining AI agents.
 
-📍 **[Project Roadmap](./Roadmap.md)** – See the strategic vision, goals, and ML/LLM multi-agent architecture.
+ **[Project Roadmap](./Roadmap.md)** – See the strategic vision, goals, and ML/LLM multi-agent architecture.
 
-👉 **[Meet Our Contributors](./CONTRIBUTORS.md)** - See who is working and supporting the project. (More supporters and contributors are always welcome)
+**[Meet Our Contributors](./CONTRIBUTORS.md)** - See who is working and supporting the project. (More supporters and contributors are always welcome)
 
 ---
 
-## ✨ What is eraseALZ?
+## What is eraseALZ?
 
 **eraseALZ** is an open-source, AI-driven discovery platform designed to accelerate the search for a **real, functional cure for Alzheimers**.
 
@@ -24,7 +24,7 @@ eraseALZ leverages a **modular multi-agent architecture** powered by **Large Lan
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Build a transparent, open-source discovery engine for ALZ cure research  
 - Enable collaborative biomedical innovation powered by AI  
@@ -34,7 +34,7 @@ eraseALZ leverages a **modular multi-agent architecture** powered by **Large Lan
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 - Modular multi-agent architecture:
   - Virology Agent
@@ -51,7 +51,7 @@ eraseALZ leverages a **modular multi-agent architecture** powered by **Large Lan
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to set up and run eraseALZ on your local machine.
 
@@ -98,7 +98,7 @@ You should see output from the active agent execution printed to your terminal.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
       .
       ├── agents/                # Modular AI agents
       ├── prompts/               # Prompt templates
@@ -116,7 +116,7 @@ You should see output from the active agent execution printed to your terminal.
 
 ---
 
-## 🧠 AI Agent Modules Overview
+## AI Agent Modules Overview
 
 | Agent Name                  | Description                                                                                      | Status           |
 |----------------------------|--------------------------------------------------------------------------------------------------|------------------|
@@ -128,7 +128,7 @@ You should see output from the active agent execution printed to your terminal.
 | TransmissionPreventionAgent | Identifies non-invasive strategies to reduce outbreaks and transmission risk                    | ✅ Implemented    |
 | ReportGeneratorAgent       | Creates structured biomedical reports from agent outputs                                        | ✅ Implemented    |
 
-## 🧠 Agent Execution Flow
+##  Agent Execution Flow
 
 eraseALZ is designed to support modular and flexible chaining of AI agents. Below is the current planned **Branch + Merge flow** architecture:
 
@@ -148,7 +148,7 @@ ReportGeneratorAgent
 
 This structure enables parallel exploration of both **cure-focused** and **prevention-focused** strategies before converging into delivery simulations and final biomedical report generation.
 
-## 📂 Export & Reporting
+##  Export & Reporting
 
 After executing all agents through the Pipeline Manager, eraseALZ automatically exports agent outputs to structured JSON files under the `/output` directory.
 
@@ -167,7 +167,7 @@ This dual-output format supports both programmatic consumption and human-readabl
 
 ---
 
-## 🧪 Sample Simulation Outputs
+##  Sample Simulation Outputs
 
 To help researchers and contributors understand how eraseALZ outputs are structured, we’ve included **sample simulation result files** generated from pipeline execution.
 
@@ -190,9 +190,9 @@ Each file corresponds to the structured output of one AI agent. These simulation
 }
 ```
 
-> 💡 Note: As the project evolves, we may migrate these simulations under a more structured location like `./data/simulations/` to align with a standardized data management structure.
+>  Note: As the project evolves, we may migrate these simulations under a more structured location like `./data/simulations/` to align with a standardized data management structure.
 
-## 📚 Knowledge Base Data Sources
+##  Knowledge Base Data Sources
 
 | Source             | Description                                             | Format(s)        | Status       | Notes                                      |
 |--------------------|---------------------------------------------------------|------------------|--------------|--------------------------------------------|
@@ -207,21 +207,21 @@ Each file corresponds to the structured output of one AI agent. These simulation
 | **WHO Database**   | Reports and publications related to virology            | PDF              | 🔜 Planned    | Public reports useful for public health context |
 
 
-## 📄 License
+##  License
 
 eraseALZ is released under the **MIT License** — feel free to use, extend, or remix it for scientific and research purposes.
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
-- 📄 [Whitepaper Outline](docs/whitepaper-outline.md) – Full structure of the eraseALZ scientific paper detailing system architecture, methodology, and discovery flows.
-- 📜 [Code of Conduct](CODE_OF_CONDUCT.md) – Guidelines for respectful, inclusive, and collaborative contribution.
-- 🤝 [Contributing Guide](CONTRIBUTING.md) – Instructions for getting started, contributing code, or collaborating with the project.
+-  [Whitepaper Outline](docs/whitepaper-outline.md) – Full structure of the eraseALZ scientific paper detailing system architecture, methodology, and discovery flows.
+-  [Code of Conduct](CODE_OF_CONDUCT.md) – Guidelines for respectful, inclusive, and collaborative contribution.
+-  [Contributing Guide](CONTRIBUTING.md) – Instructions for getting started, contributing code, or collaborating with the project.
 
 ---
 
-### 🤝 Collaboration Opportunities
+###  Collaboration Opportunities
 
 - Prompt engineering and optimization
 - New agent contributions (biology, chemistry, CRISPR, etc.)
@@ -229,7 +229,7 @@ eraseALZ is released under the **MIT License** — feel free to use, extend, or 
 - Technical documentation and scientific writing
 - Frontend/API integration enhancements
 
-## 📬 Contact
+##  Contact
 
 **Email:** stefanlindson@outlook.com  
 **GitHub:** [https://github.com/E-1-1-E/eraseALZ](https://github.com/E-1-1-E/eraseALZ)
@@ -242,7 +242,7 @@ I encourage everyone to create things like these to challenge diseases like HIV,
 
  ---
  
- ## 🙋‍♀️ Help Needed — Join the Mission!
+ ##  Help Needed — Join the Mission!
  
  We welcome passionate collaborators to help scale eraseALZ and push scientific innovation forward. Below are roles where we need your support:
  
@@ -257,6 +257,6 @@ I encourage everyone to create things like these to challenge diseases like HIV,
  | DevOps Contributor            | CI/CD pipelines, deployment scaffolding, automation scripting             |
  | Community Manager             | Facilitate open collaboration, respond to contributors, handle outreach   |
  
- > 💡 If you want to contribute or collaborate, please open an issue or send an email to [stefanlindson@outlook.com](mailto:stefanlindson@outlook.com).
+ >  If you want to contribute or collaborate, please open an issue or send an email to [stefanlindson@outlook.com](mailto:stefanlindson@outlook.com).
  
  
